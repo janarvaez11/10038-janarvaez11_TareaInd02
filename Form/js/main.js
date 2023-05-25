@@ -1,0 +1,4 @@
+$('#miModal').modal({
+	show: true
+})
+
